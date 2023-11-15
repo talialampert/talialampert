@@ -1,8 +1,8 @@
 ### Talia Lampert
 
-✨ Gateira e entusiasta de kpop, gosto de ler e desenhar
-✨ Participando da 18ª Edição do Programa Starter na GrowDev
-✨ Servidora pública do município de Porto Alegre/RS
+✨ Gateira e entusiasta de kpop, gosto de ler e desenhar;
+✨ Participando da 18ª Edição do Programa Starter na GrowDev;
+✨ Servidora pública do município de Porto Alegre/RS;
 
 
 <!--
