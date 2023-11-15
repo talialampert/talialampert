@@ -1,8 +1,10 @@
-###Talia Lampert
+### Talia Lampert
 
 ✨ Gateira e entusiasta de kpop, gosto de ler e desenhar
 ✨ Participando da 18ª Edição do Programa Starter na GrowDev
 ✨ Servidora pública do município de Porto Alegre/RS
+
+
 <!--
 **talialampert/talialampert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
